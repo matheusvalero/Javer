@@ -1,4 +1,4 @@
-package com.javer.clientes.storage.model;
+package com.javer.storage.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

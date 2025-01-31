@@ -1,7 +1,7 @@
-package com.javer.clientes.storage.controller;
+package com.javer.storage.controller;
 
-import com.javer.clientes.storage.model.Cliente;
-import com.javer.clientes.storage.repository.ClienteRepository;
+import com.javer.storage.model.Cliente;
+import com.javer.storage.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
